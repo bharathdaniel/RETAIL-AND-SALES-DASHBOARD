@@ -8,6 +8,9 @@ In the modern retail industry, organizations generate large volumes of transacti
 
 This project focuses on developing a **Retail Sales Dashboard** that allows stakeholders to monitor important business metrics such as profit, cost price, discounts, and customer segments. The dashboard helps decision-makers quickly interpret business performance and identify areas of improvement.
 
+
+<img width="1574" height="859" alt="Screenshot 2026-03-04 122533" src="https://github.com/user-attachments/assets/8e021f61-0262-46f6-b529-dca5cf103b99" />
+
 ---
 
 # 2. Objectives of the Project
